@@ -1,3 +1,5 @@
 Moja prva zmena
 riadok dva
 treti riadok
+dalsie riadky 
+este jeden
