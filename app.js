@@ -38,3 +38,12 @@ let rieseniePrikladu =
 vysledok = rieseniePrikladu;
 alert(rieseniePrikladu);
 alert();
+let PremennaPrva = 3;
+let PremennaDruha = 2;
+let PremennaTretia = 8;
+let PremennaStvrta = 31 / 8;
+let prikladuRiesenie =
+  PremennaPrva ** PremennaDruha + PremennaTretia - PremennaStvrta;
+vysledok = prikladuRiesenie;
+alert(prikladuRiesenie);
+alert();
