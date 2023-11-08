@@ -66,3 +66,4 @@ let mesto = "Holic, ";
 let psc = "908 51 ";
 let adresa = ulica + mesto + psc;
 alert(adresa);
+alert();
