@@ -51,12 +51,18 @@
 // let MojVek = 16;
 // alert(MojVek);
 // alert();
-let meno = "Sulec ";
-let priezvisko = "Barkozi";
-let MojeMeno = meno + priezvisko;
-alert(MojeMeno);
+// let meno = "Sulec ";
+// let priezvisko = "Barkozi";
+// let MojeMeno = meno + priezvisko;
+// alert(MojeMeno);
 
-let MojaAdresa = "Hurbanova 39 908 48 Kopcany";
-alert(MojaAdresa);
-let AdresaSkoly = "Námestie sv.Martina 5 908 51 Holíč";
-alert(AdresaSkoly);
+// let MojaAdresa = "Hurbanova 39 908 48 Kopcany";
+// alert(MojaAdresa);
+// let AdresaSkoly = "Námestie sv.Martina 5 908 51 Holíč";
+// alert(AdresaSkoly);
+
+let ulica = "Namestie sv. Martina 5, ";
+let mesto = "Holic, ";
+let psc = "908 51 ";
+let adresa = ulica + mesto + psc;
+alert(adresa);
