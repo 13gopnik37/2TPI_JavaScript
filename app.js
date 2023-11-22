@@ -61,9 +61,22 @@
 // let AdresaSkoly = "Námestie sv.Martina 5 908 51 Holíč";
 // alert(AdresaSkoly);
 
-let ulica = "Namestie sv. Martina 5, ";
-let mesto = "Holic, ";
-let psc = "908 51 ";
-let adresa = ulica + mesto + psc;
-alert(adresa);
-alert();
+// let ulica = "Namestie sv. Martina 5, ";
+// let mesto = "Holic, ";
+// let psc = "908 51 ";
+// let adresa = ulica + mesto + psc;
+// //alert(adresa);
+// //alert();
+// console.log(adresa.indexOf("na"));
+// console.log(mesto);
+// console.log("kristofik smrdi");
+// console.log(console);
+let a = "Ulica test jedna 49. 11111";
+console.log(a.indexOf("te"));
+console.log(console);
+console.log(a.toLowerCase());
+console.log(a.toUpperCase());
+console.log(a.substring(3, 7));
+console.log(a.endsWith("3"));
+console.log(a.repeat(10));
+console.log(a.replace("Ulica", "namestie"));
