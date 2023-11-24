@@ -71,12 +71,18 @@
 // console.log(mesto);
 // console.log("kristofik smrdi");
 // console.log(console);
-let a = "Ulica test jedna 49. 11111";
-console.log(a.indexOf("te"));
-console.log(console);
-console.log(a.toLowerCase());
-console.log(a.toUpperCase());
-console.log(a.substring(3, 7));
-console.log(a.endsWith("3"));
-console.log(a.repeat(10));
-console.log(a.replace("Ulica", "namestie"));
+// let a = "Ulica test jedna 49. 11111";
+// console.log(a.indexOf("te"));
+// console.log(console);
+// console.log(a.toLowerCase());
+// console.log(a.toUpperCase());
+// console.log(a.substring(3, 7));
+// console.log(a.endsWith("3"));
+// console.log(a.repeat(10));
+// console.log(a.replace("Ulica", "namestie"));
+
+mojaPrvaFunkcia();
+function mojaPrvaFunkcia() {
+  alert("toto je moja prva funckia");
+  console.log("TOTO JE MOJA PRVA FUNCKIA!!!!!");
+}
