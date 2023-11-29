@@ -52,3 +52,6 @@ function mojaReplace(h, prvaPremenna, druhaPremenna) {
   let n = h.replace(prvaPremenna, druhaPremenna);
   console.log(n);
 }
+
+let mojeMeno1 = "kristian";
+console.log(mojeMeno1.toUpperCase().repeat(2));
