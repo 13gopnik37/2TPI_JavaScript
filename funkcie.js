@@ -55,3 +55,13 @@ function mojaReplace(h, prvaPremenna, druhaPremenna) {
 
 let mojeMeno1 = "kristian";
 console.log(mojeMeno1.toUpperCase().repeat(2));
+
+// let den = 6;
+// let mesiac = 2;
+// let rok = 2007;
+// let vysledok7 = den + mesiac + rok;
+// sucetCisel("Sucet cisiel v datume mojho narodenia je","den"+"mesiac"+"rok"="vysledok7");
+// function sucetCisel(den, mesiac, rok, vysledok7) {
+//   let z = w.(den,mesiac,rok,vysledok7);
+//   console.log(z);
+// }
